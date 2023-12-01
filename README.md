@@ -1,2 +1,2 @@
 # Data-Visualization1
-Plotted all plots comes under Seaborn &amp; Matplolib Library.
+Plotted all plots comes under Seaborn &amp; Matplotlib Library.
